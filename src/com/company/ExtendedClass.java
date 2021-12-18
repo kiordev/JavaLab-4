@@ -8,7 +8,6 @@ public class ExtendedClass {
     private double d;
     private String s;
 
-
     @Override
     public boolean equals(Object anObject){
         if (this == anObject) return true;
